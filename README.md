@@ -39,8 +39,4 @@ Modern enterprise workforce management platform built using React.js, Material U
 
 ## Author
 
-<<<<<<< HEAD
 Jash Shah
-=======
-Jash Shah
->>>>>>> 809c29450fbe0b56d906bda931c219c42bd0427a
